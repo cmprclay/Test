@@ -4,6 +4,12 @@ getHeader("CVE Database");
 
 ?>
 
+<style type="text/css">
+  body {
+    background-color: #SDADE2;
+  }
+  
+
 <div class="jumbotron text-center">
   <h1>CVE Database Homepage</h1>
   <p>Welcome to the LJMU CVE Database Homepage for Secure Software Development</p>
